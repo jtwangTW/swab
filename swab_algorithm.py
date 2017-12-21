@@ -1,10 +1,6 @@
 #!/usr/bin/env python 
 # -*- coding: utf-8 -*-
-'''
-Created on 01.03.2017
 
-@author: Q416435
-'''
 import pandas as pd
 from matplotlib import pyplot as plt
 import sys
