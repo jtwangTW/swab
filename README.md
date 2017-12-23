@@ -5,7 +5,7 @@ This is a version of the SWAB algorithm, which was proposed in:
 Keogh, Eamonn, et al. "An online algorithm for segmenting time series." Data Mining, 2001. ICDM 2001, Proceedings IEEE International Conference on. IEEE, 2001. 
 
 ## Description
-In his paper Keoght presented a segmentation approach for Time-series that can be used for trend estimation and optimal segmentation of
+In his paper Keogh presented a segmentation approach for Time-series that can be used for trend estimation and optimal segmentation of
 temporal curves. Our implementation is given without warranty and resembles an interpretation and therefor, slightly altered version of the 
 original approach as it was proposed.
 
